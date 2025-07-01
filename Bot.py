@@ -4,7 +4,7 @@ import feedparser
 import requests
 import xml.etree.ElementTree as ET
 
-bot = telebot.TeleBot("7605831800:AAGByourtokenxnuneUk")
+bot = telebot.TeleBot("7605831800:AAGBDlrFVzwMJIbShXxl5M2lzaIbxnuneUk")
 
 # Источники новостей
 decrypt_feed_url = "https://decrypt.co/feed"
